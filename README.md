@@ -13,3 +13,7 @@ This is key information everyone should know.
 ## Pull this from the Web!
 
 You better pull this down.
+
+## This one is to commit locally
+
+Save me in the local repo!
