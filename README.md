@@ -17,3 +17,12 @@ You better pull this down.
 ## This one is to commit locally
 
 Save me in the local repo!
+
+## This one is to add and stage.
+
+Don't stage me, bro!
+
+## And this last one is to remain MODIFIED and RED
+
+dun dun dunnnn.
+
