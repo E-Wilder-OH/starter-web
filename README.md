@@ -25,3 +25,7 @@ Don't stage me, bro!
 ## And this last one is to remain MODIFIED and RED
 
 dun dun dunnnn.
+
+### Copyright
+
+2020 Git.Training. Added for copyright branch.
