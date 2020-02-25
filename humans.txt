@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Eric Wilder	ericcwilder@fake.mail	@faketwitter
 
 # THANKS
 
