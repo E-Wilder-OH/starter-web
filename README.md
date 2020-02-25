@@ -26,3 +26,6 @@ Don't stage me, bro!
 
 dun dun dunnnn.
 
+### Copyright
+
+2020 Git.Training.
