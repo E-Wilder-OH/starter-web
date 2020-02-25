@@ -26,6 +26,10 @@ Don't stage me, bro!
 
 dun dun dunnnn.
 
+## How To Contribute
+
+Give money, obviously. or write some code.
+
 ### Copyright
 
 2020 Git.Training. Added for copyright branch.
