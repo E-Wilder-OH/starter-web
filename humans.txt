@@ -3,11 +3,11 @@
 
 # TEAM
 
-    Eric Wilder	ericcwilder@fake.mail	@faketwitter
+    Eric Wilder	ericwilder@fake.mail	@faketwitter
 
 # THANKS
 
-    <name>
+    Thanks to all my students!
 
 # TECHNOLOGY COLOPHON
 
