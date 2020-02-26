@@ -36,4 +36,4 @@ Give money, obviously. or write some code.
 
 ### Copyright
 
-2020 Git.Training. Added for copyright branch.
+2020 Git.Training. Added for copyright branch. All rights reserved.
